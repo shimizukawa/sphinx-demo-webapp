@@ -11,4 +11,3 @@ support = WebSupport(srcdir=conf.SOURCE_DIR,
                      search=conf.SEARCH,
                      storage=conf.DATABASE_URI)
 support.build()
-
